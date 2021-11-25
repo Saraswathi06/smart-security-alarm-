@@ -2,9 +2,9 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 BlynkTimer timer;
-char auth[] = "fhYZ1X4c52NHIpJAIQIyHOf5GJUf0t63"; //Auth code sent via Email
-char ssid[] = "DMR"; //Wifi name
-char pass[] = "dmr@2021";  //Wifi Password
+char auth[] = " "; //Auth code sent via Email
+char ssid[] = " "; //Wifi name
+char pass[] = " ";  //Wifi Password
 int flag=0;
 void notifyOnThings()
 {
